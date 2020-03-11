@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 #
 
-name: OpenWrt_x86
+name: OpenWrt_rpi-4
 
 on:
   #push:
